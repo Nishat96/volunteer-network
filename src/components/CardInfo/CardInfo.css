@@ -1,0 +1,14 @@
+.card-info img {
+    height: 240px;
+    width: 220px;
+}
+.card-info .card-btn{
+    background-color: orange;
+    padding: 7px 20px;
+    text-align: center;
+    width: 220px;
+    height: 50px;
+    border: none;
+    margin-bottom: 10px;
+    font-weight: 600;
+}

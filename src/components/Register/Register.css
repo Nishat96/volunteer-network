@@ -1,0 +1,30 @@
+.register-section{
+    height: 400px;
+    width: 500px;
+    border: 1px solid gray;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.register-section h2{
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+.input-field{
+    margin-left: 40px;
+    margin-bottom: 25px;
+    width: 400px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.input-field:focus{
+    outline: none;
+}
+.submit-btn{
+    margin-left: 40px;
+    width: 420px;
+    height: 35px;
+    background-color: #4a75eb;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
